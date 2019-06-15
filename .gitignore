@@ -9,3 +9,6 @@ angular-phonecat-snapshots
 *.js
 *.js.map
 !*.spec.js
+
+# Temporary while upgrading
+phonecat/
